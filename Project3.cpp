@@ -30,6 +30,7 @@ int32_t isOurs(const char* s) {
  * copying the characters from 'src' and return a pointer to the first
  * character of actual string data */
 char* utstrdup(const char* src) {
+	//I wrote something here.
 	return NULL;
 }
 
